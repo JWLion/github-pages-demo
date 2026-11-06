@@ -1,2 +1,2 @@
-// Worker를 배포한 뒤 발급된 workers.dev 주소로 바꿔 주세요. API 키는 여기에 넣지 않습니다.
-export const API_BASE_URL = 'https://YOUR-WORKER.workers.dev';
+// 공개 가능한 Worker 주소입니다. API 키와 팀 접속 코드는 Cloudflare Secret에 보관합니다.
+export const API_BASE_URL = 'https://lesson-lab-demo-api.museon1004.workers.dev';
