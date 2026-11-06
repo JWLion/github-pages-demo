@@ -1,0 +1,8 @@
+name = "lesson-lab-demo-api"
+main = "worker/worker.js"
+compatibility_date = "2026-11-06"
+
+[vars]
+OPENAI_MODEL = "gpt-4o-mini"
+# GitHub Pages 주소의 출처(저장소 경로 제외)입니다.
+ALLOWED_ORIGINS = "https://jwlion.github.io,http://127.0.0.1:3002"

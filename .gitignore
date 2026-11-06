@@ -1,0 +1,12 @@
+# 이 폴더에는 공개 가능한 정적 파일만 둡니다.
+.env
+.env.*
+*api*key*.txt
+*API*KEY*.txt
+*.sqlite
+*.sqlite3
+*.db
+research_data/
+node_modules/
+.dev.vars*
+.wrangler/
